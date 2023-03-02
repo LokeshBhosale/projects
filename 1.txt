@@ -1,4 +1,4 @@
-*************************** Welcome *************************
+********************* Welcome **********************
 
 
-You can see my all projects & Assignments in this repository.
+You can see my all projects in this repository.
