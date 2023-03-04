@@ -1,4 +1,1 @@
-********************* Welcome **********************
-
-
-You can see my all projects in this repository.
+You can view my all project documentations in sub branches by project name.
